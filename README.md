@@ -40,9 +40,9 @@
 |--------|-------------|------|
 | [**CartHive**](https://github.com/your-username/CartHive) | E-commerce site | HTML, Tailwind, JS |
 | [**NetFlix**](https://github.com/your-username/AmazonClone) | Responsive clone of NetFlix’s UI | HTML, CSS, JS |
-| [**LJ Plays**](https://github.com/your-username/LJPlays) | Spotify-style music player using local MP3 | HTML, CSS, JS |
+| [**LJ Plays**](https://github.com/Lucky-Joshi/LJ-Plays.git) | Spotify-style music player using local MP3 | HTML, CSS, JS |
 | [**VidStream**](https://github.com/your-username/VidStream) | Stream `.mp4` videos with custom UI | HTML, JS |
-| [**DSA Practice Questions**](https://github.com/your-username/DSA-Notes) | Educational notes + code for DSA | C++ , Markdown |
+| [**DSA concepts**](https://github.com/Lucky-Joshi/practice.git) | Educational notes + code for different DSA concepts and problems | C++ |
 
 ---
 
