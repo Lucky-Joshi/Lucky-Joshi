@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
@@ -37,11 +37,11 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**CartHive**](https://github.com/your-username/CartHive) | E-commerce site with QR payment & Firebase Auth | HTML, Tailwind, JS, Firebase |
-| [**Amazon Clone**](https://github.com/your-username/AmazonClone) | Responsive clone of Amazon’s UI | HTML, CSS, JS |
+| [**CartHive**](https://github.com/your-username/CartHive) | E-commerce site | HTML, Tailwind, JS |
+| [**NetFlix**](https://github.com/your-username/AmazonClone) | Responsive clone of NetFlix’s UI | HTML, CSS, JS |
 | [**LJ Plays**](https://github.com/your-username/LJPlays) | Spotify-style music player using local MP3 | HTML, CSS, JS |
 | [**VidStream**](https://github.com/your-username/VidStream) | Stream `.mp4` videos with custom UI | HTML, JS |
-| [**DSA Notes**](https://github.com/your-username/DSA-Notes) | Educational notes + code for DSA | Python, Markdown |
+| [**DSA Practice Questions**](https://github.com/your-username/DSA-Notes) | Educational notes + code for DSA | C++ , Markdown |
 
 ---
 
@@ -64,10 +64,10 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: `your-email@example.com`
+- 📧 Email: `luckyjoshi524@gmail.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📺 [YouTube](https://www.youtube.com/@TheGammaBytes)
+- 📺 [Instagram](https://www.instagram.com/luckyjoshi9000/)
 
 ---
 
