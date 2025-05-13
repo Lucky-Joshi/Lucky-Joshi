@@ -14,7 +14,7 @@
 - 🎓 First-year student at **Delhi University** (BSc Physical Science with Computer Science)
 - 💻 Passionate about **Web Dev**, **DSA**, **Cybersecurity**, and building **projects that solve problems**
 - 🎮 I run a tech & gaming YouTube channel: [**Gamma Bytes**](https://youtube.com/@gammabytesofficial?si=1lW8MVveLeGcmcla)
-- 🛠️ Currently building **LJ Plays**, **Spiderman Web Shooting Game **, **Pygame based Space Shooter Game and more...
+- 🛠️ Currently building **LJ Plays**, **Spiderman Web Shooting Game**, **Pygame based Space Shooter Game** and more...
 
 ---
 
@@ -66,7 +66,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: `luckyjoshi524@gmail.com`
-- 🔗 [LinkedIn](www.linkedin.com/in/lucky-joshi
+- 🔗 [LinkedIn](www.linkedin.com/in/lucky-joshi)
 - 🌐 [Portfolio](https://luckyjoshiportfoliopage.netlify.app/)
 - 🐦 [Twitter/X](https://x.com/LuckyJoshi9000)
 - 📺 [Instagram](https://www.instagram.com/luckyjoshi9000/)
