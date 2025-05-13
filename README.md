@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
@@ -65,8 +66,9 @@
 ## 📫 Connect with Me
 
 - 📧 Email: `luckyjoshi524@gmail.com`
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
+- 🔗 [LinkedIn](www.linkedin.com/in/lucky-joshi
+- 🌐 [Portfolio](https://luckyjoshiportfoliopage.netlify.app/)
+- 🐦 [Twitter/X](https://x.com/LuckyJoshi9000)
 - 📺 [Instagram](https://www.instagram.com/luckyjoshi9000/)
 
 ---
