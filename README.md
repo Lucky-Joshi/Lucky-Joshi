@@ -1,5 +1,4 @@
-<!-- GitHub Profile README of Lucky Joshi -->
-
+# Lucky Joshi's GitHub Profile
 <h1 align="center">Hi 👋, I'm Lucky Joshi</h1>
 <h3 align="center">BSc Physical Science (CS) Student | Web Developer | YouTuber | Tech Enthusiast</h3>
 
