@@ -39,7 +39,7 @@
 | [**CartHive**](https://github.com/your-username/CartHive) | E-commerce site | HTML, Tailwind, JS |
 | [**NetFlix**](https://github.com/your-username/AmazonClone) | Responsive clone of NetFlix’s UI | HTML, CSS, JS |
 | [**LJ Plays**](https://github.com/Lucky-Joshi/LJ-Plays.git) | Spotify-style music player using local MP3 | HTML, CSS, JS |
-| [**VidStream**](https://github.com/your-username/VidStream) | Stream `.mp4` videos with custom UI | HTML, JS |
+| [**VidStream**](https://github.com/Lucky-Joshi/VidStream.git) | Stream `.mp4` videos with custom UI | HTML, JS |
 | [**DSA concepts**](https://github.com/Lucky-Joshi/practice.git) | Educational notes + code for different DSA concepts and problems | C++ |
 
 ---
