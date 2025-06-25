@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucky-Joshi&label=Profile%20views&color=0e75b6&style=flat" alt="Lucky-Joshi" />
-</p> // This line is for profile views count
+</p>
 ---
 
 ## 🧠 About Me
