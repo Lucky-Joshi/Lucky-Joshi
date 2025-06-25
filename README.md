@@ -9,7 +9,6 @@
 
 - 🎓 First-year student at **Delhi University** (BSc Physical Science with Computer Science)
 - 💻 Passionate about **Web Dev**, **DSA**, **Cybersecurity**, and building **projects that solve problems**
-- 🎮 I run a tech & gaming YouTube channel: [**Gamma Bytes**](https://youtube.com/@gammabytesofficial?si=1lW8MVveLeGcmcla)
 - 🛠️Build  **Spiderman Web Shooting Game**, **Pygame based Space Shooter Game** and more...
 - 🛠️ Currently working on **LJ Plays** and **CartHive**.
 
