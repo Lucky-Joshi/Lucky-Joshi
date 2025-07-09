@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Lucky Joshi 👋</h1>
-<h3 align="center">Student · Frontend Dev · Content Writer · Cybersecurity Enthusiast · YouTuber</h3>
+<h3 align="center">Student · Frontend Dev · Content Writer · Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucky-Joshi&label=Profile+Views&color=0e75b6&style=flat" alt="Lucky-Joshi" />
@@ -57,7 +57,6 @@
 
 ### ✍️ I Also Create:
 
-- 📹 YouTube Content on Tech & Tools
 - 📚 Technical notes + beginner tutorials
 - ✒️ Articles on college life, dev journey & side hustles  
 - 🎨 Poster & content design (Canva + Markdown)
