@@ -30,14 +30,11 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🎵 [**LJ Plays V2**](https://github.com/Lucky-Joshi/LJ-Plays) | Spotify-style responsive music app | HTML, Tailwind, JS |
-| 🛍️ [**CartHive**](https://github.com/Lucky-Joshi/CartHive) | E-commerce cart-based website | HTML, JS |
-| 💬 [**AI Girlfriend - Yuki**](https://github.com/Lucky-Joshi/AI-GF) | Chat-based OpenAI-powered app | HTML, JS, Tailwind, OpenAI |
-| 📓 [**Diary App**](https://github.com/Lucky-Joshi/DiaryApp) | Rich text notes + PDF export | HTML, JS |
-| ✅ [**MERN To-Do App**](https://github.com/Lucky-Joshi/MERN-ToDo) | Priority-based per-user tasks | MongoDB, Express, React, Node |
-| 🔐 [**Login/Signup System**](https://github.com/Lucky-Joshi/AuthApp) | Full auth with JWT & MongoDB | React, Node.js, MongoDB |
-| ❤️ [**Love Calculator GUI**](https://github.com/Lucky-Joshi/LoveCalc) | Love % + DOB compatibility + PNG | Python, Tkinter, PyAutoGUI |
-| ⚙️ [**VedLang Suite**](https://github.com/Lucky-Joshi/VedLang) | Sanskrit-based interpreter + IDE | HTML, JS, CodeMirror |
-| 💡 [**Prompt Packs + GPT Tools**](https://github.com/Lucky-Joshi/PromptPacks) | AI side hustle tools & prompts | JS, HTML, Creativity |
+| 📓 [**Diary App**](https://github.com/Lucky-Joshi/Diary-Entry-App-V6.git) | Rich text notes + PDF export | HTML, JS |
+| ✅ [**MERN To-Do App**](https://github.com/Lucky-Joshi/mern-todo-app.git) | Priority-based per-user tasks | MongoDB, Express, React, Node |
+| 🔐 [**Login/Signup System**](https://github.com/Lucky-Joshi/auth-system.git) | Full auth with JWT & MongoDB | React, Node.js, MongoDB |
+| ❤️ [**Love Calculator GUI**](https://github.com/Lucky-Joshi/Love-Calculator.git) | Love % + DOB compatibility + PNG | Python, Tkinter, PyAutoGUI |
+| ⚙️ [**VedLang Suite**](https://github.com/Lucky-Joshi/vedlang-suite.git) | Sanskrit-based interpreter + IDE | HTML, JS, CodeMirror |
 
 ---
 
