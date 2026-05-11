@@ -29,9 +29,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| ⚙️ [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | |
-| ⚙️ [**AuraWalls**](https://github.com/Lucky-Joshi/AuraWalls.git) | AuraWalls is an AI-inspired, dynamic wallpaper and background application for Android. Built with a futuristic neon aesthetic and modern Android development practices, it allows users to curate their own collection of wallpapers and automate their rotation with smooth transitions. | |
-| ⚙️ [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A full-stack MERN real-time chat application with JWT authentication, Socket.IO integration, push notifications, and a modern UI. | |
+| ⚙️ [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | MERN, Supabase, Prisma |
+| ⚙️ [**AuraWalls**](https://github.com/Lucky-Joshi/AuraWalls.git) | An AI-inspired, dynamic wallpaper and background application for Android. | Kotlin |
+| ⚙️ [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A full-stack MERN real-time chat application with JWT authentication and Socket.IO. | MERN, Supabase, Prisma |
 | ⚙️ [**VedLang Suite**](https://github.com/Lucky-Joshi/vedlang-suite.git) | Sanskrit-based interpreter + IDE | HTML, JS, CodeMirror |
 
 ---
