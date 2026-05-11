@@ -32,7 +32,6 @@
 | ⚙️ [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | MERN, Supabase, Prisma |
 | ⚙️ [**AuraWalls**](https://github.com/Lucky-Joshi/AuraWalls.git) | An AI-inspired, dynamic wallpaper and background application for Android. | Kotlin |
 | ⚙️ [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A full-stack MERN real-time chat application with JWT authentication and Socket.IO. | MERN, Supabase, Prisma |
-| ⚙️ [**VedLang Suite**](https://github.com/Lucky-Joshi/vedlang-suite.git) | Sanskrit-based interpreter + IDE | HTML, JS, CodeMirror |
 
 ---
 
