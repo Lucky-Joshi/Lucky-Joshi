@@ -11,7 +11,7 @@
 - 🎓 BSc Physical Science (Computer Science) @ **Delhi University**
 - 💻 **Full Stack**, **Cybersecurity**, and **AI**
 - ✍️ Writing code, content & creative tools that solve real problems
-- 🔥 Currently working on: `VedLang`, `LJ Plays V2`, `Prompt Packs`, `MERN To-Do`
+- 🔥 Currently working on: `Mentixo AI`
 
 ---
 
@@ -29,11 +29,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎵 [**LJ Plays V2**](https://github.com/Lucky-Joshi/LJ-Plays) | Spotify-style responsive music app | HTML, Tailwind, JS |
-| 📓 [**Diary App**](https://github.com/Lucky-Joshi/Diary-Entry-App-V6.git) | Rich text notes + PDF export | HTML, JS |
-| ✅ [**MERN To-Do App**](https://github.com/Lucky-Joshi/mern-todo-app.git) | Priority-based per-user tasks | MongoDB, Express, React, Node |
-| 🔐 [**Login/Signup System**](https://github.com/Lucky-Joshi/auth-system.git) | Full auth with JWT & MongoDB | React, Node.js, MongoDB |
-| ❤️ [**Love Calculator GUI**](https://github.com/Lucky-Joshi/Love-Calculator.git) | Love % + DOB compatibility + PNG | Python, Tkinter, PyAutoGUI |
+| ⚙️ [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | |
+| ⚙️ [**AuraWalls**](https://github.com/Lucky-Joshi/AuraWalls.git) | AuraWalls is an AI-inspired, dynamic wallpaper and background application for Android. Built with a futuristic neon aesthetic and modern Android development practices, it allows users to curate their own collection of wallpapers and automate their rotation with smooth transitions. | |
+| ⚙️ [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A full-stack MERN real-time chat application with JWT authentication, Socket.IO integration, push notifications, and a modern UI. | |
 | ⚙️ [**VedLang Suite**](https://github.com/Lucky-Joshi/vedlang-suite.git) | Sanskrit-based interpreter + IDE | HTML, JS, CodeMirror |
 
 ---
