@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Lucky Joshi 👋</h1>
-<h3 align="center">Student · Frontend Dev · Content Writer · Cybersecurity Enthusiast</h3>
+<h3 align="center">Student · Full Stack Dev · Content Writer · Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucky-Joshi&label=Profile+Views&color=0e75b6&style=flat" alt="Lucky-Joshi" />
