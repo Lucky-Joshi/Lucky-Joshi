@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 - 🎓 BSc Physical Science (Computer Science) @ **Delhi University**
-- 💻 Frontend-focused dev exploring **Full Stack**, **Cybersecurity**, and **AI**
+- 💻 **Full Stack**, **Cybersecurity**, and **AI**
 - ✍️ Writing code, content & creative tools that solve real problems
 - 🔥 Currently working on: `VedLang`, `LJ Plays V2`, `Prompt Packs`, `MERN To-Do`
 
