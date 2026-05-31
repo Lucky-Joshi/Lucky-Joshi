@@ -98,7 +98,7 @@ Here are some of the projects I'm most proud of. They showcase my ability to bui
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lucky-Joshi&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Lucky-Joshi&theme=tokyonight&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy-tawny.vercel.app/?username=Lucky-Joshi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
