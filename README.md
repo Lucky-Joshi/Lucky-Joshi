@@ -40,6 +40,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/github/followers/Lucky-Joshi?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/repos/Lucky-Joshi?style=flat-square&color=0e75b6" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love"/>
+</p>
+
 ---
 
 ### 📌 Quick Links
@@ -68,7 +75,7 @@ My technical skills include a range of modern technologies for building robust a
 |---|---|---|---|---|
 | `React` `HTML5` `CSS3` `TailwindCSS` | `Node.js` `Express.js` | `MongoDB` `Supabase` `Prisma` | `JavaScript` `Python` `Kotlin` `Java` `C++` | `Git` `GitHub` `Firebase` `Docker` |
 
-**Keywords for Recruiters:** MERN Stack, Full Stack Developer, AI, React.js, Node.js, Express.js, MongoDB, Supabase, Prisma, REST APIs, JWT, Socket.IO, Android (Kotlin).
+**Keywords for Recruiters:** Full Stack Developer, AI, React.js, Node.js, Express.js, MongoDB, Supabase, Prisma, REST APIs, JWT, Socket.IO, Android (Kotlin), Kotlin, Python.
 
 ---
 
@@ -77,21 +84,21 @@ Here are some of the projects I'm most proud of. They showcase my ability to bui
 
 | Project | Description | Tech Stack | Impact/Features |
 |---|---|---|---|
-| 🤖 [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | `MERN` `Supabase` `Prisma` | **15+ core features**, including quiz generation and automated summaries. |
+| 🤖 [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | `Full Stack` `Supabase` `Prisma` | **15+ core features**, including quiz generation and automated summaries. |
 | 📱 [**AuraWalls**](https://github.com/Lucky-Joshi/AuraWalls.git) | A dynamic AI-inspired wallpaper application for Android with a futuristic neon aesthetic and automated rotation. | `Kotlin` `Android SDK` | **1,000+ downloads** (est.), smooth transitions, and user-curated collections. |
-| 💬 [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A real-time 1-to-1 MERN chat application featuring JWT authentication, Socket.IO, and a modern, responsive UI. | `MERN` `Socket.IO` | Supports **real-time messaging** and push notifications for a seamless user experience. |
+| 💬 [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A real-time 1-to-1 full-stack chat application featuring JWT authentication, Socket.IO, and a modern, responsive UI. | `Full Stack` `Socket.IO` | Supports **real-time messaging** and push notifications for a seamless user experience. |
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-Joshi&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lucky-Joshi&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-Joshi&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Lucky-Joshi&theme=tokyonight" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucky-Joshi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucky-Joshi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
