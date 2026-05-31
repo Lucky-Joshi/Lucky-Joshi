@@ -92,14 +92,15 @@ Here are some of the projects I'm most proud of. They showcase my ability to bui
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-Joshi&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Lucky-Joshi&theme=tokyonight" width="48%" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+[![Lucky-Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucky-Joshi&show_icons=true&theme=tokyonight)](https://github.com/Lucky-Joshi)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucky-Joshi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lucky-Joshi&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Lucky-Joshi&theme=tokyonight&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
