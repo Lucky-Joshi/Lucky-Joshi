@@ -98,7 +98,7 @@ Here are some of the projects I'm most proud of. They showcase my ability to bui
 
 <div align="center">
   
-[![Lucky-Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucky-Joshi&show_icons=true&theme=tokyonight)](https://github.com/Lucky-Joshi)
+[![Lucky-Joshi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Lucky-Joshi&show_icons=true&theme=tokyonight)](https://github.com/Lucky-Joshi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lucky-Joshi&theme=tokyonight)](https://git.io/streak-stats)
 
