@@ -43,12 +43,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/github/repos/Lucky-Joshi?style=flat-square&color=0e75b6" alt="Repos"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Lucky-Joshi/<GIST_ID>/raw/badge.json&style=flat-square" alt="Dynamic Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/>  
 </p>
 
 ---
