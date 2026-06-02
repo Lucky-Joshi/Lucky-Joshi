@@ -126,22 +126,3 @@ I'm always excited to connect with fellow developers, recruiters, and potential 
 
 ---
 
-### 🔧 Dynamic Badge Setup
-The profile includes a dynamic badge powered by a GitHub Gist. To set it up:
-
-1. **Create a new GitHub Gist** with a file named `badge.json` containing:
-```json
-{
-  "schemaVersion": 1,
-  "label": "Status",
-  "message": "Active Developer",
-  "color": "brightgreen",
-  "style": "flat-square"
-}
-```
-
-2. **Get your Gist ID** from the URL (example: `https://gist.github.com/Lucky-Joshi/abc123def456/`)
-
-3. **Replace `<GIST_ID>`** in the README badge URL with your actual Gist ID
-
-4. **Push the changes** to see the dynamic badge appear!
