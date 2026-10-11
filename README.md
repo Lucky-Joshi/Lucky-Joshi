@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 I'm a passionate Full-Stack Developer and AI enthusiast currently pursuing a BSc in Physical Science (Computer Science) at the **University of Delhi**. My goal is to build innovative and intelligent tools that solve real-world problems.
 
-- 🔭 I’m currently building **[Mentixo AI](https://github.com/Lucky-Joshi/Mentixo-AI.git)**, an AI-powered platform to revolutionize study material generation.
 - 🌱 I’m focused on deepening my expertise in **AI/ML**, **Cybersecurity**, and **System Design**.
 - ✍️ Beyond coding, I enjoy writing technical articles and creating content about my development journey.
 - 🤝 I'm open to collaborating on impactful open-source projects, especially in the AI and EdTech space.
@@ -72,9 +71,9 @@ My technical skills include a range of modern technologies for building robust a
 
 | Frontend | Backend | Databases | Languages | Tools & Platforms |
 |---|---|---|---|---|
-| `React` `HTML5` `CSS3` `TailwindCSS` | `Node.js` `Express.js` | `MongoDB` `Supabase` `Prisma` | `JavaScript` `Python` `Kotlin` `Java` `C++` | `Git` `GitHub` `Firebase` `Docker` |
+| `React` `Next.js` `HTML5` `CSS3` `TailwindCSS` | `Node.js` `Express.js` | `MongoDB` `PostgreSQL` `Supabase` `Prisma` | `TypeScript` `JavaScript` `Python` `Kotlin` `Java` `C++` | `Git` `GitHub` `Firebase` `Docker` |
 
-**Keywords for Recruiters:** Full Stack Developer, AI, React.js, Node.js, Express.js, MongoDB, Supabase, Prisma, REST APIs, JWT, Socket.IO, Android (Kotlin), Kotlin, Python.
+**Keywords for Recruiters:** Full Stack Developer, AI, React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Supabase, Prisma, REST APIs, JWT, Socket.IO, Android (Kotlin), Kotlin, Python.
 
 ---
 
@@ -84,8 +83,10 @@ Here are some of the projects I'm most proud of. They showcase my ability to bui
 | Project | Description | Tech Stack | Impact/Features |
 |---|---|---|---|
 | 🤖 [**Mentixo AI**](https://github.com/Lucky-Joshi/Mentixo-AI.git) | An AI-powered educational platform for generating study materials, quizzes, and interactive learning experiences. | `Full Stack` `Supabase` `Prisma` | **15+ core features**, including quiz generation and automated summaries. |
-| 📱 [**AuraWalls**](https://github.com/Lucky-Joshi/AuraWalls.git) | A dynamic AI-inspired wallpaper application for Android with a futuristic neon aesthetic and automated rotation. | `Kotlin` `Android SDK` | **1,000+ downloads** (est.), smooth transitions, and user-curated collections. |
-| 💬 [**TwilChat**](https://github.com/Lucky-Joshi/TwilChat-Real-time-1-to-1-Chat.git) | A real-time 1-to-1 full-stack chat application featuring JWT authentication, Socket.IO, and a modern, responsive UI. | `Full Stack` `Socket.IO` | Supports **real-time messaging** and push notifications for a seamless user experience. |
+| 🔁 [**SkillSwap**](https://github.com/Lucky-Joshi/SkillSwap.git) | A full-stack, AI-powered peer learning and skill exchange platform for colleges. Students create verified profiles, list skills they know and want to learn, get AI-generated mentor/learner/peer recommendations, exchange learning requests, chat in real time, schedule sessions, and earn badges & certificates. | `Full Stack` `AI` `Real-time Chat` | AI-powered mentor/learner/peer matching, verified profiles, real-time chat, session scheduling, and badges & certificates. |
+| 📹 [**VidChat**](https://github.com/Lucky-Joshi/VidChat.git) | A lightweight multi-participant video calling application built for pair programming, coding interviews, and remote collaboration. Real-time video, audio, screen sharing, and live participant state — with no accounts and no database. | `WebRTC` `Real-time Video` | Multi-participant video/audio, screen sharing, and live participant state with no accounts or database. |
+| 🛡️ [**SentinelFW**](https://github.com/Lucky-Joshi/SentinelFW.git) | A local nftables firewall manager and security monitor for Kali Linux. Keeps firewall rules in a YAML file, previews the exact nft script before anything touches the kernel, stores the firewall's own log lines in SQLite, and explains findings in plain English. Every change is previewed, backed up and confirmed, and it refuses to touch any nftables table other than the one it owns. | `Python` `nftables` `SQLite` `YAML` | Safe, preview-first firewall management with backups, confirmation, and plain-English log explanations. |
+| 🔍 [**IntelXtract**](https://github.com/Lucky-Joshi/IntelXtract.git) | An AI-powered OSINT automation & intelligence platform. Collects, normalizes, correlates, analyzes, visualizes, and reports publicly available intelligence from many sources — WHOIS, DNS, SSL, HTTP, IP, email, usernames, certificate transparency, archives, news, and more — inside one unified interface instead of fifteen browser tabs. | `AI` `OSINT` `Python` | Unified OSINT collection, correlation, visualization, and reporting across dozens of public sources. |
 
 ---
 
