@@ -331,8 +331,6 @@
           <span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:999px;background:#22d3ee2e;border:1px solid #22d3ee66;color:#67e8f9;font-size:12px;font-weight:600;">AI</span>
           <span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:999px;background:#22d3ee2e;border:1px solid #22d3ee66;color:#67e8f9;font-size:12px;font-weight:600;">Real-time Chat</span>
           <br/><br/>
-          <span style="display:inline-block;padding:4px 9px;margin:2px;border-radius:8px;background:#0a0d1a;color:#fbbf24;font-size:12px;font-weight:700;">🟡 IN PROGRESS</span>
-          <br/><br/>
           <p style="margin:0 0 14px 0;color:#cbd5e1;font-size:13px;line-height:1.7;">
             • AI-generated <b style="color:#ffffff;">mentor/learner/peer</b> recommendations<br/>
             • Verified student profiles & skill listing<br/>
@@ -350,6 +348,7 @@
           </a>
           <br/><br/>
           <a href="https://github.com/Lucky-Joshi/SkillSwap" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 22px;border-radius:14px;background:linear-gradient(135deg,#00d4ff,#7c3aed);color:#ffffff;text-decoration:none;font-weight:700;font-size:14px;">View on GitHub</a>
+          <a href="https://skill-swap-nine-lac.vercel.app" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 22px;border-radius:14px;background:linear-gradient(135deg,#7c3aed,#00d4ff);color:#ffffff;text-decoration:none;font-weight:700;font-size:14px;">Live Demo</a>
         </div>
       </td>
       <td width="50%" valign="top" style="background:#10142b;border-radius:26px;border:1px solid #232749;overflow:hidden;">
@@ -380,6 +379,7 @@
             • Interactive learning experiences
           </p>
           <a href="https://github.com/Lucky-Joshi/Mentixo-AI" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 22px;border-radius:14px;background:linear-gradient(135deg,#38bdf8,#00d4ff);color:#ffffff;text-decoration:none;font-weight:700;font-size:14px;">View on GitHub</a>
+          <a href="https://mentixo.netlify.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 22px;border-radius:14px;background:linear-gradient(135deg,#00d4ff,#38bdf8);color:#ffffff;text-decoration:none;font-weight:700;font-size:14px;">Live Demo</a>
         </div>
       </td>
     </tr>
